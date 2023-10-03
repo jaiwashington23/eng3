@@ -3,10 +3,11 @@
 ### Assignment Description
 
 Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
+The purpose of this assignment is to improve onshape skills.
 ### Evidence
 
 Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
+![image](https://github.com/jaiwashington23/eng3/assets/143545376/349e3513-8ace-4f4f-8edb-405f5165bdac)
 
 ### Part Link 
 
@@ -14,7 +15,11 @@ Take several cropped screenshots of your Onshape document from different angles.
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on the knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+tey way I tried to do it at first was wrong.
+the challenging part was geting to the right mass. I figured it out by asking for help.
+I learned that shortcuts are not the way.
+I wish the measurements were more clear.
 
 &nbsp;
 
@@ -340,4 +345,73 @@ For example, I use an Arduino Uno to represent my Circuitpython device but write
 Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 ### Reflection
 Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
