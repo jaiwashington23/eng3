@@ -15,12 +15,7 @@ Take several cropped screenshots of your Onshape document from different angles.
 [Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
 
 ### Reflection
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on the knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-tey way I tried to do it at first was wrong.
-the challenging part was geting to the right mass. I figured it out by asking for help.
-I learned that shortcuts are not the way.
-I wish the measurements were more clear.
+the way I tried to do it at first was wrong. the challenging part was geting to the right mass. I figured it out by asking for help. I learned that shortcuts are not the way. I wish the measurements were more clear.
 
 &nbsp;
 
