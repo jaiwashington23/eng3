@@ -105,7 +105,6 @@ For example, I use an Arduino Uno to represent my Circuitpython device but write
 Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
 ### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
-
+The servo wasn't hard but did have some challenging parts when it came to code. The cod was challenging because I was just getting back into it as well as me not being the best coder. I figured it out by asking for help. what helped me succed was looking at examples of code and wiring.  
 
 
