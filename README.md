@@ -1,10 +1,8 @@
 https://cvilleschools.onshape.com/documents/213f1bc214a32d55b924fa98/w/52f7d1c9b76fb7044b183068/e/551a0ea8520cadca6ad90a14
-## Onshape_Assignment_Template
+## Hanger onshape 
 
 ### Assignment Description
-
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-The purpose of this assignment is to improve onshape skills.
+The purpose of this assignment is to improve onshape skills. This assignment is helpful in getting familiar with the mass and getting more comfortable with Onshape in general.  
 ### Evidence
 
 Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
