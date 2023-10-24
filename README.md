@@ -90,11 +90,7 @@ This was, at first, a confusing assignment. With no prior knowledge of any code 
 ### Description & Code Snippets
 The goal of this assignment is to get a 180° micro servo to slowly sweep back and forth between 0 and 180°. 
 
-###Code
-
-# SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
-#
-# SPDX-License-Identifier: MIT
+### Code
 
 """CircuitPython Essentials Capacitive Touch on two pins example. Does not work on Trinket M0!"""
 import time
@@ -103,10 +99,10 @@ import touchio
 import pwmio
 from adafruit_motor import servo
 
-# create a PWMOut object on Pin A2.
+
 pwm = pwmio.PWMOut(board.A2, duty_cycle=2 ** 15, frequency=50)
 
-# Create a servo object, my_servo.
+
 my_servo = servo.ContinuousServo(pwm)
 
 touch_A4 = touchio.TouchIn(board.A4)  # Not a touch pin on Trinket M0!
