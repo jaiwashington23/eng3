@@ -128,9 +128,8 @@ This beautiful GIF was finely produced by Addy Buckner
 [Addy's Github](https://github.com/addddddy)
 
 ### Wiring
-[tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
-For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
-Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+
+![267764949-da8131b8-15df-4c77-98ea-45a548e7e9d1](https://github.com/jaiwashington23/eng3/assets/143545376/6e5e0dab-db50-4565-97cc-af7b9c2c29f8)
 
 ### Reflection
 The servo wasn't hard but did have some challenging parts when it came to code. The cod was challenging because I was just getting back into it as well as me not being the best coder. I figured it out by asking for help. what helped me succeed was looking at examples of code and wiring.  
