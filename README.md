@@ -114,11 +114,11 @@ while True:
     motor.value = speed
 
   ###  Evidence
-
+https://github.com/SempronChip/engr3/assets/143545309/15a4333c-a8c2-4cba-8b52-bf43765f76a8
 
  ### Wiring
+![IRLB8721 Motor Control](https://github.com/jaiwashington23/eng3/assets/143545376/6747d782-7cf2-47e0-a06b-c1321138d4fb)
 
 
 ### Reflection
-
- 
+The hardest part of this assignment was getting the wiring right! For me, wiring is not something I'm fully comfortable with so it was definitely a little struggle. 
