@@ -1,6 +1,22 @@
-https://cvilleschools.onshape.com/documents/213f1bc214a32d55b924fa98/w/52f7d1c9b76fb7044b183068/e/551a0ea8520cadca6ad90a14
-## Hanger onshape 
+### Description
+the purpose of this assignment is to get ready for the Certified Onshape Associate certification. This assignment will help you determine what additional concepts you need to focus on for the certification exam. 
 
+ 
+
+ ### Evidence 
+https://cvilleschools.onshape.com/documents/213f1bc214a32d55b924fa98/w/52f7d1c9b76fb7044b183068/e/551a0ea8520cadca6ad90a14
+
+## part link 
+https://cvilleschools.onshape.com/documents/213f1bc214a32d55b924fa98/w/52f7d1c9b76fb7044b183068/e/551a0ea8520cadca6ad90a14?renderMode=0&uiState=6538178547cb436741981539
+
+
+### Reflection
+This assignment was fun and challenging. I learned a lot and got even more comfortable with Onshape! Even though it was challenging I had fun because Onshap is my favorite thing to do in this class.
+
+
+
+## Hanger onshape 
+https://cvilleschools.onshape.com/documents/213f1bc214a32d55b924fa98/w/52f7d1c9b76fb7044b183068/e/551a0ea8520cadca6ad90a1
 ### Assignment Description
 The purpose of this assignment is to improve onshape skills. This assignment is helpful in getting familiar with the mass and getting more comfortable with Onshape in general.  
 ### Evidence
@@ -122,3 +138,4 @@ https://github.com/SempronChip/engr3/assets/143545309/15a4333c-a8c2-4cba-8b52-bf
 
 ### Reflection
 The hardest part of this assignment was getting the wiring right! For me, wiring is not something I'm fully comfortable with so it was definitely a little struggle. 
+
