@@ -88,14 +88,8 @@ This was, at first, a confusing assignment. With no prior knowledge of any code 
 ## CircuitPython_Servo
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
+The goal of this assignment is to get a 180° micro servo to slowly sweep back and forth between 0 and 180°. 
 
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
-
-```python
 ###Code
 
 # SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
@@ -144,6 +138,8 @@ Then post an image here.   [Here's a quick tutorial for all markdown code, like 
 
 ### Reflection
 The servo wasn't hard but did have some challenging parts when it came to code. The cod was challenging because I was just getting back into it as well as me not being the best coder. I figured it out by asking for help. what helped me succeed was looking at examples of code and wiring.  
+
+
 
 ## CircuitPython_Motor control
 
