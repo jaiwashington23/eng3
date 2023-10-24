@@ -98,6 +98,27 @@ For example, I use an Arduino Uno to represent my Circuitpython device but write
 Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
 ### Reflection
-The servo wasn't hard but did have some challenging parts when it came to code. The cod was challenging because I was just getting back into it as well as me not being the best coder. I figured it out by asking for help. what helped me succed was looking at examples of code and wiring.  
+The servo wasn't hard but did have some challenging parts when it came to code. The cod was challenging because I was just getting back into it as well as me not being the best coder. I figured it out by asking for help. what helped me succeed was looking at examples of code and wiring.  
+
+## CircuitPython_Motor control
+
+### Description & Code Snippets
+In this assignment, you will determine how much voltage you send to the transistor gate and that in turn will determine how much current runs from the 6 V battery pack through the motor.  The motor/transistor part of the circuit is below. 
+import board
+import analogio
+
+motor = analogio.AnalogOut(board.A0)
+pot = analogio.AnalogIn(board.A1)
+while True:
+    speed = pot.value
+    motor.value = speed
+
+  ###  Evidence
 
 
+ ### Wiring
+
+
+### Reflection
+
+ 
