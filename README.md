@@ -148,7 +148,14 @@ pot = analogio.AnalogIn(board.A1)
 while True:
     speed = pot.value
     motor.value = speed
+## code 
 
+spinny = pwmio.PWMOut(board.D6, duty_cycle=65535,frequency = 5000 )# wire in pin 5
+speed = analogio.AnalogIn(board.A1)
+while True:
+    sdfg = speed.value
+    spinny.duty_cycle = sdfg
+  
   ###  Evidence
 https://github.com/SempronChip/engr3/assets/143545309/15a4333c-a8c2-4cba-8b52-bf43765f76a8
 
@@ -157,5 +164,6 @@ https://github.com/SempronChip/engr3/assets/143545309/15a4333c-a8c2-4cba-8b52-bf
 
 
 ### Reflection
-The hardest part of this assignment was getting the wiring right! For me, wiring is not something I'm fully comfortable with so it was definitely a little struggle. 
+The hardest part of this assignment was getting the wiring right! For me, wiring is not something I'm fully comfortable with so it was definitely a little struggle. I learned that 
+working together makes everything better. I also  learned the importance of import time when it comes to code.
 
