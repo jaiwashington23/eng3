@@ -169,3 +169,55 @@ https://github.com/SempronChip/engr3/assets/143545309/15a4333c-a8c2-4cba-8b52-bf
 The hardest part of this assignment was getting the wiring right! For me, wiring is not something I'm fully comfortable with so it was definitely a little struggle. I learned that 
 working together makes everything better. I also  learned the importance of import time when it comes to code.
 
+
+### Description 
+
+The goal of this assignment is to make the neopixel change color based on the distances reported by the ultrasonic sensor. we used the previous code we had for the neopixel to include the if statements and distance sensor.
+
+### code 
+
+# SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
+# SPDX-License-Identifier: MIT
+
+import time
+import board
+import adafruit_hcsr04
+import neopixel
+
+NUMPIXELS = 1  # Update this to match the number of LEDs.
+SPEED = 0.05  # Increase to slow down the rainbow. Decrease to speed it up.
+BRIGHTNESS = 1.0  # A number between 0.0 and 1.0, where 0.0 is off, and 1.0 is max.
+PIN = board.NEOPIXEL
+pixels = neopixel.NeoPixel(PIN, NUMPIXELS, brightness=BRIGHTNESS, auto_write=False)
+sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D5, echo_pin=board.D6)
+
+while True:
+    try:
+        print((sonar.distance,))
+        if sonar.distance < 5:
+            for pixel in range(len(pixels)):  # pylint: disable=consider-using-enumerate
+                pixels[pixel] = (255, 0,0)
+                pixels.show()
+        if sonar.distance > 5 and sonar.distance < 20:
+            for pixel in range(len(pixels)):  # pylint: disable=consider-using-enumerate
+                pixels[pixel] = (255-(sonar.distance - 5 / 15 * 255), 0, (sonar.distance - 5 / 15 * 255))
+                pixels.show()
+             
+        if sonar.distance > 20 and sonar.distance < 35:
+            for pixel in range(len(pixels)):  # pylint: disable=consider-using-enumerate
+                pixels[pixel] = ( 0, (sonar.distance - 5 / 15 * 255), 255-(sonar.distance - 5 / 15 * 255))
+                pixels.show()
+        if sonar.distance > 35:
+            for pixel in range(len(pixels)):  # pylint: disable=consider-using-enumerate
+                pixels[pixel] = ( 0, 255, 0)
+                pixels.show()   
+    except RuntimeError:
+        print("Retrying!")
+    time.sleep(0.1)
+
+     ### Wiring
+![134725601-72db0fcb-0d50-486c-aff5-9e0ec1772057](https://github.com/jaiwashington23/eng3/assets/143545376/7179987a-2a13-480b-bbf1-24bf72fe7b91)
+
+     
+### Reflection
+This assignment was challenging because I kept putting wires in the wrong pins. I also found this assignment to be really cool because we used the old code to make a new code! I learned to always save your code because you never know when you will need it.
