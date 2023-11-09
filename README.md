@@ -1,3 +1,24 @@
+### Multipart Design Practice
+
+### Description 
+
+the purpose of this assignment is to get ready for the Certified Onshape Associate certification. You should finish this assignment in one hour.  
+
+ 
+### EVIDENCE
+![nig](https://github.com/jaiwashington23/eng3/assets/143545376/db5ca9dc-3c22-44d1-9501-24f969ecf020)
+
+
+## PART LINK
+https://cvilleschools.onshape.com/documents/20cebd7642126c2674b6d080/w/757516b6ca5430c4e704b050/e/c7e861ee95e2d4e8f447d53e?renderMode=0&uiState=654d45028421ab756fcf9b65
+
+
+### REFLECTION
+
+This assignment was fun and challenging. I learned a lot and got even more comfortable with Onshape! Even though it was challenging I had fun because Onshap is my favorite thing to do in this class. The only thing I would have done differently was the amount of time I spent on this assignment.  
+
+
+
 ### Swing Arm
 
 ### Description
