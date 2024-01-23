@@ -273,6 +273,7 @@ This assignment was challenging because I kept putting wires in the wrong pins. 
 
 
 ### code 
+```python
 # Rotary Encodare light thingksf;ja             # [lines 1-7] Import and set up neccesary libraries
 import time
 import rotaryio
@@ -331,7 +332,7 @@ while True:                #[lines 27-38] Set up varible for encoder, limit it t
         time.sleep(.1)
         Button = 1
     last_position = position
-
+```
 ### Wiring
 ![134725601-72db0fcb-0d50-486c-aff5-9e0ec1772057](https://github.com/jaiwashington23/eng3/blob/3aac1d4f067bfd9bf4bd6c16ee14970643e7cd80/wiring.PNG)
 
