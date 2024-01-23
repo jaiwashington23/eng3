@@ -269,7 +269,7 @@ This assignment was challenging because I kept putting wires in the wrong pins. 
 
 
 ### Description 
-
+the goal is use to menu control for a fake traffic light using LDC.
 
 
 ### code 
@@ -338,3 +338,4 @@ while True:                #[lines 27-38] Set up varible for encoder, limit it t
 
 
 ### Reflection
+this assignment was hard because I'm not good at code and had a lot of problems with it. But for the most part, the outcome was good
