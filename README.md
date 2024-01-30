@@ -339,3 +339,50 @@ while True:                #[lines 27-38] Set up varible for encoder, limit it t
 
 ### Reflection
 this assignment was hard because I'm not good at code and had a lot of problems with it. But for the most part, the outcome was good
+
+###  Description 
+In this assignment, we were told to change the color of neopixial LED.
+
+### Code
+"""
+IR Sensor - STARTER CODE
+Engineering 3
+
+"""
+# Import libraries
+import board
+import digitalio
+import neopixel 
+
+# Initialize the on-board neopixel and set the brightness.
+led = neopixel.NeoPixel(board.NEOPIXEL, 1)
+led.brightness = 0.3
+
+# Set up the IR Sensor using digital pin 2. 
+ir_sensor = digitalio.DigitalInOut(board.D2)
+ir_sensor.direction = digitalio.Direction.INPUT # Set the IR sensor as an input.
+ir_sensor.pull = digitalio.Pull.UP              # Use the internal pull-up resistor.
+
+
+# While loop runs the code inside continuously. 
+while True:
+    # If an object is near the IR sensor (sensor is LOW):
+        # Set the NeoPixel's color to RED. 
+  
+    if ir_sensor.value == False:
+        led[0] = (255, 0, 0)
+    # If nothing is near the IR sensor (sensor is HIGH):
+        # Set the NeoPixel's color to GREEN. 
+    if ir_sensor.value == True:
+        led[0] = (0,255,0)
+
+        ## Evidence
+        
+https://github.com/jaiwashington23/eng3/assets/143545376/c718c298-4fcd-46d5-83bd-e416e61b3626
+
+### Wiring
+
+![download](https://github.com/jaiwashington23/eng3/assets/143545376/7d38a324-ed1a-42e2-8dc9-71eddb31545b)
+
+### Reflection 
+This was a fun pretty easy assignment. Next time I might add a spice.
