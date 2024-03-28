@@ -1,3 +1,16 @@
+### Onshape Certification Prep mic stand
+
+
+### Description 
+Help get ready for Onshape certification. just extra practice. 
+
+### EVIDENCE
+![bop a rboo](https://github.com/jaiwashington23/eng3/assets/143545376/851b6956-8ffa-4bff-923f-2e0036a3720b)
+
+### REFLECTION
+this assignment was to help understand the mass of an object. 
+
+
 ### Multipart Design Practice
 
 ### Description 
